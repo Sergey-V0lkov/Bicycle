@@ -2,26 +2,30 @@
 
 Скачиваем архив с githab
 
-![image](https://github.com/user-attachments/assets/190c721f-9680-4d82-a82b-b227a97aee73)
+![Screenshot_1](https://github.com/user-attachments/assets/49f58a7c-5ec5-4c93-b52a-178621ed32e7)
+
 
  
 ## Шаг 2
 
 Разархивируем 
 
-![image](https://github.com/user-attachments/assets/63543e55-f690-471b-81c7-a2bd8f6ca31a)
+![Screenshot_2](https://github.com/user-attachments/assets/dc88b974-9314-475d-85bd-a1c142f3c979)
+
 
 ## Шаг 3
 
 В папке с проектом находим файл index.html и нажимаем на него 2 раза 
 
-![image](https://github.com/user-attachments/assets/25565daf-5b4e-4448-8298-a9677aedab54)
+![Screenshot_3](https://github.com/user-attachments/assets/022aa261-8026-4a0d-821f-96bffc1f9953)
+
 
  
 ## Шаг 4
 
 Готово, в браузере откроется проект Austera
 
-![image](https://github.com/user-attachments/assets/0f207984-8677-4225-b528-5917f19a172a)
+![Screenshot_4](https://github.com/user-attachments/assets/ffb00171-e44d-4aa0-b63b-e39a61cbbffd)
+
 
 
