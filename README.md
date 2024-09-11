@@ -11,7 +11,7 @@
 ---
 Что бы скачать себе данный проект, следуйте инструкции по ссылке:
 
-https://github.com/Sergey-V0lkov/Austera/blob/main/INSTRUCTION.md
+https://github.com/Sergey-V0lkov/Bicycle/blob/main/INSTRUCTION.md
 
 
 
