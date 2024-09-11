@@ -13,6 +13,7 @@
 https://github.com/Sergey-V0lkov/Austera/blob/main/INSTRUCTION.md
 
 
-:mortar_board: Данный проект был выполнен в рмках обучающего видео по BEM-методолгии :mortar_board:
 
+
+:mortar_board: Данный проект был выполнен в рмках обучающего видео по BEM-методолгии :mortar_board:
 https://www.youtube.com/watch?v=W8GphcizGqE
