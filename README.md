@@ -11,3 +11,7 @@
 ---
 Что бы скачать себе данный проект, следуйте инструкции по ссылке:
 https://github.com/Sergey-V0lkov/Austera/blob/main/INSTRUCTION.md
+
+
+Данный проект был выполнен в рмках обучающего видео
+https://www.youtube.com/watch?v=W8GphcizGqE
