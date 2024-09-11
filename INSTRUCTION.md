@@ -23,7 +23,7 @@
  
 ## Шаг 4
 
-Готово, в браузере откроется проект Austera
+Готово, в браузере откроется проект Bicycle
 
 ![Screenshot_4](https://github.com/user-attachments/assets/ffb00171-e44d-4aa0-b63b-e39a61cbbffd)
 
